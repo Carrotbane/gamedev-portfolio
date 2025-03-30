@@ -9,6 +9,7 @@ I have a **deep passion for videogames**
 ## Projects
 
 ## Resume
+[Mitt CV.pdf](https://github.com/user-attachments/files/19526532/Mitt.CV.pdf)
 
 # Header 1
 ## Header 2
